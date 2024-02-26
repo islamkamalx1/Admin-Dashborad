@@ -1,18 +1,3 @@
-<p align="center">
-<a href=https://github.com/islamkamalx1/Admin-Dashborad target="_blank">
-<img src='/placeholder.jpg' width="100%" alt="Banner" />
-</a>
-</p>
-
-
-
-<p align="center">
-<img src="https://img.shields.io/github/languages/code-size/islamkamalx1/Admin-Dashborad" alt="GitHub code size in bytes" />
-<img src="https://img.shields.io/github/last-commit/islamkamalx1/Admin-Dashborad" alt="GitHub last commit" />
-<img src="https://img.shields.io/github/commit-activity/m/islamkamalx1/Admin-Dashborad" alt="GitHub commit activity month" />
-<img src="https://img.shields.io/github/license/islamkamalx1/Admin-Dashborad" alt="GitHub license" />
-</p>
-
 ## 📌 Overview
 
 Admin-Dashboard project utilizes essential dependencies like React, Emotion, FullCalendar, Material-UI, Nivo, Formik, Yup, React Router, Vite, and ESLint for efficient development of a feature-rich admin dashboard interface.
@@ -25,15 +10,11 @@ Admin-Dashboard project utilizes essential dependencies like React, Emotion, Ful
 
 * [💻 Stack](#stack)
 
-* [⚙️ Setting Up](#setting-up)
-
 * [🚀 Run Locally](#run-locally)
 
 * [🙌 Contributors](#contributors)
 
 * [☁️ Deploy](#deploy)
-
-* [📄 License](#license)
 
 ## 📁 Project Structure
 
@@ -123,14 +104,6 @@ Admin-Dashboard project utilizes essential dependencies like React, Emotion, Ful
 - [vite](https://vitejs.dev/): Build tool for fast development and server-client communication.
 - [yup](https://github.com/jquense/yup): Library for schema validation and error messages.
 
-## ⚙️ Setting Up
-
-#### Your Environment Variable
-
-- Step 1
-
-- Step 2
-
 ## 🚀 Run Locally
 1.Clone the Admin-Dashborad repository:
 ```sh
@@ -158,9 +131,4 @@ yarn dev
 
 ## ☁️ Deploy
 
-`[Application name](Your App URL)`
-
-## 📄 License
-
-[**Add Your License**](https://choosealicense.com)
-
+`[Preview](admin-dashborad.vercel.app)`
