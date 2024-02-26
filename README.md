@@ -131,4 +131,4 @@ yarn dev
 
 ## ☁️ Deploy
 
-`[Preview](admin-dashborad.vercel.app)`
+[Preview](admin-dashborad.vercel.app)
